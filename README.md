@@ -18,6 +18,7 @@ Yo! 👋 I'm Ayush, an ECE grad from VIT who loves solving problems and building
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+---
 
 ### Startup (Founding Member)                                                          *[August 2023 - May 2025]*
 VIT-TBI MnG-based startup specializing in AI-based healthcare diagnostic solutions       

@@ -1,12 +1,12 @@
 # 🌌 Ayush Anil
 
+---
 
 ## Summary
 
 Yo! 👋 I'm Ayush, an ECE grad from VIT who loves solving problems and building tech solutions. When I'm not coding in my free time, you can find me enjoying sports like basketball. I've got hands-on experience boosting efficiency in systems and creating software that makes an impact in real life.
 
 ---
-
 
 ### 🧰 Languages and Tools
 
@@ -21,7 +21,6 @@ Yo! 👋 I'm Ayush, an ECE grad from VIT who loves solving problems and building
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
 ---
 
 ### Startup (Founding Member) | VIT-TBI MnG-based startup specializing in AI-based healthcare diagnostic solutions *August 2023 - May 2025*

@@ -21,7 +21,7 @@ Yo! 👋 I'm Ayush, an ECE grad from VIT who loves solving problems and building
 
 ---
 
-### Startup (Founding Member) | VIT-TBI MnG-based startup specializing in AI-based healthcare diagnostic solutions *August 2023 - May 2025*
+#### Startup (Founding Member) | VIT-TBI MnG-based startup specializing in AI-based healthcare diagnostic solutions *August 2023 - May 2025*
 * Key role in developing innovative strategies to tackle critical healthcare issues.
 * Instrumental in creating an enhanced continuous glucose monitoring system.
 

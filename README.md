@@ -1,6 +1,6 @@
 # 🌌 Ayush Anil
 
-**'Digital Craftsman'**
+***'Digital Craftsman'***
 
 Yo! 👋 I'm Ayush, an ECE grad from VIT who loves solving problems and building tech solutions. When I'm not coding in my free time, you can find me enjoying sports like basketball. I've got hands-on experience boosting efficiency in systems and creating software that makes an impact in real life.
 
